@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 <!--
 **leeejin/leeejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=navy&height=40&section=header&text=안녕하세요&fontSize=16px" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeejin)](https://github.com/asd72621/github-readme-stats)
 ### Contact
