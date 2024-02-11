@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=모양&color=navy&height=40&section=header&text=텍스트&fontSize=16px" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=navy&height=40&section=header&text=안녕하세요&fontSize=16px" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeejin)](https://github.com/asd72621/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-<img src="https://capsule-render.vercel.app/api?type=모양&color=navy&height=40&section=footer&text=텍스트&fontSize=16px" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=navy&height=40&section=footer&text=안녕하세요&fontSize=16px" />
