@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=navy&height=40&section=header&text=안녕하세요&fontSize=16px" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeejin)](https://github.com/asd72621/github-readme-stats)
-###Contact
+### Contact
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-###Group
+### Group
 ![SLACK](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![ZOOM](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
