@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1976d2&height=300&section=header&text=안녕하세요프론트개발자를지망하고있습니다👋-nl-HELLO,IampreparingaFRONT-ENDDeveloper👋-nl-こんにちはFRONT-ENDの開発者をご用意しております%20render&animation=fadeIn&fontSize=20&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1976d2&height=300&section=header&text=안녕하세요프론트개발자를지망하고있습니다👋-nl-HELLO,IampreparingaFRONT-ENDDeveloper👋-nl-こんにちはFRONT-ENDの開発者をご用意しております&animation=fadeIn&fontSize=20&fontColor=FFFFFF)
 
 ### SKILL
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
