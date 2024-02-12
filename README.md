@@ -1,7 +1,8 @@
-### 안녕하세요 프론트개발자를 지망하고 있습니다 👋
-### HELLO, I am preparing a FRONT-END Developer 👋
-### こんにちはFRONT-ENDの開発者をご用意しております 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요 프론트개발자를 지망하고 있습니다 👋
+HELLO, I am preparing a FRONT-END Developer 👋
+こんにちはFRONT-ENDの開発者をご用意しております 👋%20render&fontSize=90)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1976d2&height=150&section=footer" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeejin)](https://github.com/asd72621/github-readme-stats)
 
 ### SKILL
@@ -30,4 +31,4 @@
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![ZOOM](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1976d2&height=150&section=footer" />
+
