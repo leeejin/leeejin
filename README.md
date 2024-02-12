@@ -1,7 +1,7 @@
 <!-- 안녕하세요 프론트개발자를 지망하고 있습니다 👋
 HELLO, I am preparing a FRONT-END Developer 👋
 こんにちはFRONT-ENDの開発者をご用意しております 👋 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=1976d2&height=300&section=header&text=안녕하세요프론트개발자를지망하고있습니다👋-nl-HELLO,IampreparingaFRONT-ENDDeveloper👋-nl-こんにちはFRONT-ENDの開発者をご用意しております%20render&animation=fadeIn&fontSize=20&fontColor=#FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1976d2&height=300&section=header&text=안녕하세요프론트개발자를지망하고있습니다👋-nl-HELLO,IampreparingaFRONT-ENDDeveloper👋-nl-こんにちはFRONT-ENDの開発者をご用意しております%20render&animation=fadeIn&fontSize=20&fontColor=FFFFFF)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeejin)](https://github.com/asd72621/github-readme-stats)
 
