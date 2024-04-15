@@ -10,7 +10,7 @@
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![REACTROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![REACTQUERY](https://img.shields.io/badge/React-query-470137?style=for-the-badge&logo=React-query%20XD&logoColor=#FF61F6)
+![REACTQUERY](https://img.shields.io/badge/React_query-470137?style=for-the-badge&logo=React-query%20XD&logoColor=#FF61F6)
 ### Database
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
